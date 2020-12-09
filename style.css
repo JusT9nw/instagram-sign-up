@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  display: box;
+  box-sizing: border-box;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+body {
+  background: #fafafa;
+  text-align: center;
+  width: 1024px;
+}
+div.Login-Form {
+  background-color: #fff;
+  border: 1px #e7e7e7 solid;
+  width: 33%;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 47.5%;
+  margin-top: 2.5%;
+  text-align: center;
+  box-shadow: 0px 0px 1px #e1e1e1;
+  padding-bottom: 20px;
+}
+img.ig-logo {
+  width: 65%;
+  padding-top: 5%;
+}
+#underlogo {
+  padding-top: 8px;
+  color: gray;
+  font-weight: 500;
+  font-size: 17px;
+}
+.btn {
+  width: 92%;
+  height: 30px;
+  background-color: #0095f6;
+  border: None;
+  border-radius: 4px;
+  margin-top: 15px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 15px;
+}
+#or {
+  padding-top: 15px;
+  font-weight: 500;
+  font-size: 13px;
+  color: gray;
+  padding-bottom: 20px;
+}
+.inputs {
+  width: 92%;
+  height: 37px;
+  margin-bottom: 7px;
+  padding-left: 8px;
+  background: #fafafa;
+  border: 1px solid #dbdbdb;
+  border-radius: 4px;
+  font-size: 12px;
+}
+.inputs:active {
+  border: 1px solid #dbdbdb;
+}
+#ForTerms {
+  padding-top: 10px;
+  font-size: 12px;
+  width: 90%;
+  margin-left: 5%;
+  color: gray;
+}
+#TPCP {
+  font-weight: bold;
+}
+#lbtn {
+  width: 92%;
+  height: 30px;
+  background-color: #0095f6;
+  border: None;
+  border-radius: 4px;
+  margin-top: 7px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.HAA {
+  font-size: 14px;
+  width: 33%;
+  margin-top: 1%;
+  margin-left: 47.5%;
+  padding: 25px;
+  border: 1px #e7e7e7 solid;
+  background: #fff;
+  box-shadow: 0px 0px 1px #e1e1e1;
+  text-align: center;
+}
+.GTApp {
+  margin-left: 28%;
+}
+#Copyright p {
+
+    margin-left: 28%;
+}
